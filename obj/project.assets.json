@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/home/pawel/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/pawel/Programowanie/Zadanie_rekrutacyjne/Zadanie_rekrutacyjne.csproj",
+      "projectName": "Zadanie_rekrutacyjne",
+      "projectPath": "/home/pawel/Programowanie/Zadanie_rekrutacyjne/Zadanie_rekrutacyjne.csproj",
+      "packagesPath": "/home/pawel/.nuget/packages/",
+      "outputPath": "/home/pawel/Programowanie/Zadanie_rekrutacyjne/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/pawel/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/128/sdk/5.0.300/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

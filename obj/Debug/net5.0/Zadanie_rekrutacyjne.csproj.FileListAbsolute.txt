@@ -1,0 +1,16 @@
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/bin/Debug/net5.0/Zadanie_rekrutacyjne
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/bin/Debug/net5.0/Zadanie_rekrutacyjne.deps.json
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/bin/Debug/net5.0/Zadanie_rekrutacyjne.runtimeconfig.json
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/bin/Debug/net5.0/Zadanie_rekrutacyjne.runtimeconfig.dev.json
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/bin/Debug/net5.0/Zadanie_rekrutacyjne.dll
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/bin/Debug/net5.0/ref/Zadanie_rekrutacyjne.dll
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/bin/Debug/net5.0/Zadanie_rekrutacyjne.pdb
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/obj/Debug/net5.0/Zadanie_rekrutacyjne.csproj.AssemblyReference.cache
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/obj/Debug/net5.0/Zadanie_rekrutacyjne.GeneratedMSBuildEditorConfig.editorconfig
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/obj/Debug/net5.0/Zadanie_rekrutacyjne.AssemblyInfoInputs.cache
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/obj/Debug/net5.0/Zadanie_rekrutacyjne.AssemblyInfo.cs
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/obj/Debug/net5.0/Zadanie_rekrutacyjne.csproj.CoreCompileInputs.cache
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/obj/Debug/net5.0/Zadanie_rekrutacyjne.dll
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/obj/Debug/net5.0/ref/Zadanie_rekrutacyjne.dll
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/obj/Debug/net5.0/Zadanie_rekrutacyjne.pdb
+/home/pawel/Programowanie/Zadanie_rekrutacyjne/obj/Debug/net5.0/Zadanie_rekrutacyjne.genruntimeconfig.cache
